@@ -31,4 +31,9 @@ b) put image amd get text
 ![long-Good-morning-texts-for-her](https://user-images.githubusercontent.com/115232340/209430011-e153eea7-4f8e-4916-b252-bf5a0028585d.jpg)
 
 # Extracted text-
+![1st](https://user-images.githubusercontent.com/115232340/209430325-33c3f043-c552-4cab-9948-f9b8b4632eec.png)
+![2nd](https://user-images.githubusercontent.com/115232340/209430331-50cbf1a6-2062-47ea-be80-4e6c95de2419.png)
+![3rd](https://user-images.githubusercontent.com/115232340/209430333-870393e2-52cc-4666-aaa6-1d0efae2721d.png)
+![4th](https://user-images.githubusercontent.com/115232340/209430337-6827194e-bdde-4a30-9723-54c080b9e34c.png)
+
 
