@@ -29,3 +29,6 @@ b) put image amd get text
 
 # Image used in pytesseract ocr-
 ![long-Good-morning-texts-for-her](https://user-images.githubusercontent.com/115232340/209430011-e153eea7-4f8e-4916-b252-bf5a0028585d.jpg)
+
+# Extracted text-
+
