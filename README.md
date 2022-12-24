@@ -21,3 +21,8 @@ g) words in pic3
 5. import libraries for pytesseract- 
 a) install the tesseract.exe and paste the file path
 b) put image amd get text
+
+# Pics used to identify text-
+![1_3L4ThlC_2sKnhMY4fsieXw jpg](https://user-images.githubusercontent.com/115232340/209430007-f10f907c-7a9c-476f-8077-20b98cc36100.jpg)
+![Looking-for-machine-learning-experts-LinkedIn-data-shows-how-to-find-them](https://user-images.githubusercontent.com/115232340/209430009-5a5b6d91-17d2-4733-917a-5c250277f203.png)
+![long-Good-morning-texts-for-her](https://user-images.githubusercontent.com/115232340/209430011-e153eea7-4f8e-4916-b252-bf5a0028585d.jpg)
