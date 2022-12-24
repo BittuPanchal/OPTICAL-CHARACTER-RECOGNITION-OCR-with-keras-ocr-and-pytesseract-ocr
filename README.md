@@ -23,6 +23,10 @@ a) install the tesseract.exe and paste the file path
 b) put image amd get text
 
 # Pics used to identify text-
+Image used in keras ocr-
 ![1_3L4ThlC_2sKnhMY4fsieXw jpg](https://user-images.githubusercontent.com/115232340/209430007-f10f907c-7a9c-476f-8077-20b98cc36100.jpg)
 ![Looking-for-machine-learning-experts-LinkedIn-data-shows-how-to-find-them](https://user-images.githubusercontent.com/115232340/209430009-5a5b6d91-17d2-4733-917a-5c250277f203.png)
+![What-is-LinkedIn_-What-is-LinkedIn-Used-For_](https://user-images.githubusercontent.com/115232340/209430068-01224cf7-d6ad-41e9-9885-66f82a5468c3.jpg)
+
+Image used in pytesseract ocr-
 ![long-Good-morning-texts-for-her](https://user-images.githubusercontent.com/115232340/209430011-e153eea7-4f8e-4916-b252-bf5a0028585d.jpg)
